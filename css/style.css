@@ -1,0 +1,90 @@
+@import 'img_icon.css';
+@import 'container.css';
+@import 'font.css';
+
+#features h1,
+#testimonials h3 {
+    display: none;
+}
+
+.banner>p {
+    margin-top: -20px;
+}
+
+.editable-theme,
+.flat-design,
+.reach-audience {
+    text-align: center;
+}
+
+#get-notified {
+    position: relative;
+}
+
+.notify p {
+    line-height: 25px;
+}
+
+#video {
+    position: absolute;
+    top: 12px;
+    right: 100px;
+}
+
+#video:hover {
+    cursor: pointer;
+}
+
+form:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+form {
+    margin-top: 25px;
+}
+
+#input-email {
+    float: left;
+    width: 290px;
+    height: 50px;
+    padding-left: 25px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border: none;
+    outline: none;
+}
+
+#notify-email {
+    float: left;
+    width: 130px;
+    height: 52px;
+    border: none;
+    background-color: #2ecc71;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    outline: none;
+}
+
+#notify-email:hover {
+    cursor: pointer;
+}
+
+#testimonials {
+    text-align: center;
+}
+
+.comment {
+    margin: 50px 230px 0;
+}
+
+footer {
+    text-align: center;
+    line-height: 120px;
+}
+
+#menu>li {
+    display: inline;
+    margin-right: 35px;
+}

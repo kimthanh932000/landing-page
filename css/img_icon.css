@@ -1,0 +1,264 @@
+header {
+    background-image: url('../images/notify_psd_theme_01.jpg');
+}
+
+.apple,
+.android,
+.windows {
+    width: 52px;
+    height: 52px;
+    display: inline-block;
+    margin-right: 10px;
+    border-radius: 50%;
+    background-color: black;
+    opacity: 0.5;
+}
+
+.apple {
+    background-image: url('../images/apple.png');
+    background-position: 14px 11px;
+    background-repeat: no-repeat;
+}
+
+.android {
+    background-image: url('../images/android.png');
+    background-position: 15px 12px;
+    background-repeat: no-repeat;
+}
+
+.windows {
+    background-image: url('../images/windows.png');
+    background-position: 12px 13px;
+    background-repeat: no-repeat;
+}
+
+.apple:hover,
+.android:hover,
+.windows:hover {
+    background-color: #2ecc71;
+    opacity: 1;
+    cursor: pointer;
+}
+
+.editable-theme-img,
+.flat-design-img,
+.reach-audience-img {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+.editable-theme-img {
+    background-image: url('../images/features.png');
+    background-position: -108px 1px;
+    background-repeat: no-repeat;
+}
+
+.flat-design-img {
+    background-image: url('../images/features.png');
+    background-position: -538px 1px;
+    background-repeat: no-repeat;
+}
+
+.reach-audience-img {
+    background-image: url('../images/features.png');
+    background-position: -968px 1px;
+    background-repeat: no-repeat;
+}
+
+.photo-01, .photo-02, .photo-03, .photo-04, .photo-05, .photo-06, .photo-07, .photo-08, .photo-09, .photo-10, .photo-11, .photo-12, .photo-13, .photo-14, .photo-15, .photo-16, .photo-17, .photo-18, .photo-19, .photo-20, .photo-21, .overlay{
+    display: inline-block;
+    width: 52px;
+    height: 52px;    
+}
+
+.overlay:hover{
+    background-color: #2ecc71; 
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+.photo-01{
+    background-image: url('../images/images.png');
+    background-position: -49px -45px;
+    background-repeat: no-repeat;    
+}
+.photo-02{
+    background-image: url('../images/images.png');
+    background-position: -104px -45px;
+    background-repeat: no-repeat;    
+}
+.photo-03{
+    background-image: url('../images/images.png');
+    background-position: -159px -45px;
+    background-repeat: no-repeat;    
+}
+
+.photo-04{
+    background-image: url('../images/images.png');
+    background-position: -214px -45px;
+    background-repeat: no-repeat;    
+}
+
+.photo-05{
+    background-image: url('../images/images.png');
+    background-position: -269px -45px;
+    background-repeat: no-repeat;    
+}
+
+.photo-06{
+    background-image: url('../images/images.png');
+    background-position: -324px -45px;
+    background-repeat: no-repeat;    
+}
+
+.photo-07{
+    background-image: url('../images/images.png');
+    background-position: -379px -45px;
+    background-repeat: no-repeat;    
+}
+
+.photo-08{
+    background-image: url('../images/images.png');
+    background-position: -434px -45px;
+    background-repeat: no-repeat;    
+}
+
+.photo-09{
+    background-image: url('../images/images.png');
+    background-position: -489px -45px;
+    background-repeat: no-repeat;    
+}
+
+.photo-10{
+    background-image: url('../images/images.png');
+    background-position: -544px -45px;
+    background-repeat: no-repeat;    
+}
+
+.photo-11{
+    background-image: url('../images/images.png');
+    background-position: -599px -45px;
+    background-repeat: no-repeat;    
+}
+
+.photo-12{
+    background-image: url('../images/images.png');
+    background-position: -654px -45px;
+    background-repeat: no-repeat;    
+}
+
+.photo-13{
+    background-image: url('../images/images.png');
+    background-position: -709px -45px;
+    background-repeat: no-repeat;    
+}
+
+.photo-14{
+    background-image: url('../images/images.png');
+    background-position: -764px -45px;
+    background-repeat: no-repeat;    
+}
+
+.photo-15{
+    background-image: url('../images/images.png');
+    background-position: -819px -45px;
+    background-repeat: no-repeat;    
+}
+
+.photo-16{
+    background-image: url('../images/images.png');
+    background-position: -874px -45px;
+    background-repeat: no-repeat;    
+}
+
+.photo-17{
+    background-image: url('../images/images.png');
+    background-position: -929px -45px;
+    background-repeat: no-repeat;    
+}
+
+.photo-18{
+    background-image: url('../images/images.png');
+    background-position: -984px -45px;
+    background-repeat: no-repeat;    
+}
+
+.photo-19{
+    background-image: url('../images/images.png');
+    background-position: -1039px -45px;
+    background-repeat: no-repeat;    
+}
+
+.photo-20{
+    background-image: url('../images/images.png');
+    background-position: -1094px -45px;
+    background-repeat: no-repeat;    
+}
+
+.photo-21{
+    background-image: url('../images/images.png');
+    background-position: -1149px -45px;
+    background-repeat: no-repeat;    
+}
+
+.twitter,
+.facebook,
+.pinterest,
+.google,
+.linkedin,
+.youtube {
+    width: 36px;
+    height: 37px;
+    display: inline-block;
+    margin-right: 5px;
+    border-radius: 50%;
+    background-color: #d4d4d4;
+}
+
+.twitter {
+    background-image: url('../images/social-media.png');
+    background-position: 10px 5px;
+    background-repeat: no-repeat;
+}
+
+.facebook {
+    background-image: url('../images/social-media.png');
+    background-position: -34px 5px;
+    background-repeat: no-repeat;
+}
+
+.pinterest {
+    background-image: url('../images/social-media.png');
+    background-position: -78px 5px;
+    background-repeat: no-repeat;
+}
+
+.google {
+    background-image: url('../images/social-media.png');
+    background-position: -121px 5px;
+    background-repeat: no-repeat;
+}
+
+.linkedin {
+    background-image: url('../images/social-media.png');
+    background-position: -166px 5px;
+    background-repeat: no-repeat;
+}
+
+.youtube {
+    background-image: url('../images/social-media.png');
+    background-position: -210px 5px;
+    background-repeat: no-repeat;
+}
+
+.twitter:hover,
+.facebook:hover,
+.pinterest:hover,
+.google:hover,
+.linkedin:hover,
+.youtube:hover {
+    background-color: #2ecc71;
+    cursor: pointer;
+}
